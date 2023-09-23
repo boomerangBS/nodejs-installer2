@@ -4,6 +4,6 @@ echo Install Completed
 echo Configuring NVM
 source ~/.bashrc
 echo Installation successfull !
-echo use nvm install <version> to install a nodejs version and nvm use <version> to switch nodejs version
+echo use nvm install <version> to install a nodejs version and nvm use <version> to switch nodejs v
 echo THANK YOU FOR USING NVM INSTALLER !
 echo https://github.com/boomerangBS/nodejs-installer2/
